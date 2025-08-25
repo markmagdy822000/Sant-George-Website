@@ -1,0 +1,9 @@
+obj/
+[Bb]in/
+*.vsidx
+wwwroot/lib/
+wwwroot/dist/
+packages/
+
+
+
