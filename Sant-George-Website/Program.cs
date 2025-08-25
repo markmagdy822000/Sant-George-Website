@@ -1,5 +1,5 @@
 
-namespace Sant_George_Website
+namespace SantGeorgeWebsite
 {
     public class Program
     {

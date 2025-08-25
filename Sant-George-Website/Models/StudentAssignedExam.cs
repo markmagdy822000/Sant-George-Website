@@ -1,10 +1,10 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.EntityFrameworkCore;
 
-namespace Sant_George_Website.Models
+namespace SantGeorgeWebsite.Models
 {
     [PrimaryKey(nameof(StudentId), nameof(ExamId))]
-    public class Student_Assigned_Exam
+    public class StudentAssignedExam
     {
         [ForeignKey(nameof(Student))]
         public string StudentId { get; set; }

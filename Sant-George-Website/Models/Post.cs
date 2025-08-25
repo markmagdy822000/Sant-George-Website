@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.Security.Principal;
 
-namespace Sant_George_Website.Models
+namespace SantGeorgeWebsite.Models
 {
     public class Post
     {

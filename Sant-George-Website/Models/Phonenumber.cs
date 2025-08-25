@@ -1,12 +1,12 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Sant_George_Website.Models
+namespace SantGeorgeWebsite.Models
 {
-    public class User_Phonenumber
+    public class Phonenumber
     {
         [ForeignKey(nameof(User))]
         public string UserId { get; set; }
         public ApplicationUser User{ get; set; }
-        public int Phonenumber { get; set; }
+        public int phonenumber { get; set; }
     }
 }

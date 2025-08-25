@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Sant_George_Website.Models
+namespace SantGeorgeWebsite.Models
 {
     public class Exam
     {
@@ -12,7 +12,7 @@ namespace Sant_George_Website.Models
         public int MinDegree { get; set; }
         public string? Description { get; set; }
         [ForeignKey(nameof(Teacher))]
-        public string Teacher_Id{ get; set; }
+        public string TeacherId{ get; set; }
         public ApplicationUser Teacher { get; set; }
         public ICollection<Question> Questions{ get; set; }
 

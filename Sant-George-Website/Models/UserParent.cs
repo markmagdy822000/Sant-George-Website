@@ -1,8 +1,8 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Sant_George_Website.Models
+namespace SantGeorgeWebsite.Models
 {
-    public class User_Parent
+    public class UserParent
     {
         public ApplicationUser Parent{ get; set; }
         [ForeignKey(nameof(Parent))]

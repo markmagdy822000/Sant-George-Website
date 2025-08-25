@@ -2,10 +2,10 @@
 using System.Runtime.InteropServices;
 using Microsoft.EntityFrameworkCore;
 
-namespace Sant_George_Website.Models
+namespace SantGeorgeWebsite.Models
 {
     
-    public class User_Service_Role
+    public class UserServiceRole
     {
         public int Id { get; set; }
         [ForeignKey(nameof(User))]
@@ -15,7 +15,6 @@ namespace Sant_George_Website.Models
         [ForeignKey(nameof(Service))]
         public int ServiceId { get; set; }
         public RoleType Role{ get; set; }
-
     }
     public enum RoleType
     {

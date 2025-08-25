@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.Reflection.Metadata.Ecma335;
 
-namespace Sant_George_Website.Models
+namespace SantGeorgeWebsite.Models
 {
     public class Answer
     {

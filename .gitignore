@@ -4,6 +4,10 @@ obj/
 wwwroot/lib/
 wwwroot/dist/
 packages/
+*.db
+*db-shm
+*db-wal
+*.suo
 
 
 

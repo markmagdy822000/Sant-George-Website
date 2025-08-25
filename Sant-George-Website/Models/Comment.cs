@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.Runtime.CompilerServices;
 
-namespace Sant_George_Website.Models
+namespace SantGeorgeWebsite.Models
 {
     public class Comment
     {
@@ -9,6 +9,7 @@ namespace Sant_George_Website.Models
         public ApplicationUser User { get; set; }
         [ForeignKey(nameof(User))]
         public string UserId { get; set; }
+        
         [ForeignKey(nameof(Post))]
         public int PostId { get; set; }
         public Post Post { get; set; }
