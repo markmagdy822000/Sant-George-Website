@@ -9,7 +9,7 @@ namespace SantGeorgeWebsite.Models
         public float Degree { get; set; }
         [ForeignKey(nameof(Exam))]
         public int ExamId { get; set; }
-        public Exam Exam { get; set; }
-        public ICollection<Answer> Answers { get; set; }
+        public virtual Exam Exam { get; set; }
+        public virtual ICollection<Answer> Answers { get; set; }
     }
 }

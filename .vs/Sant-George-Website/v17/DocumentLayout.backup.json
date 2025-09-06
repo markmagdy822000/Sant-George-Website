@@ -3,164 +3,24 @@
   "WorkspaceRootPath": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\models\\santgeorgewebsitedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\models\\santgeorgewebsitedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\models\\userservicerole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\models\\userservicerole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\dtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\dtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\models\\userparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\models\\userparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\dtos\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\dtos\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\models\\teachermarkexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\models\\teachermarkexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\models\\studentassignedexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\models\\studentassignedexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\models\\studentanswertext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\models\\studentanswertext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\models\\studentanswerchoose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\models\\studentanswerchoose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\repositories\\implementations\\answerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\repositories\\implementations\\answerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\repositories\\implementations\\teacher_mark_examrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\repositories\\implementations\\teacher_mark_examrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\repositories\\interfaces\\iteacher_mark_examrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\repositories\\interfaces\\iteacher_mark_examrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\repositories\\implementations\\student_assigned_examrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\repositories\\implementations\\student_assigned_examrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\repositories\\implementations\\student_answer_textpository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\repositories\\implementations\\student_answer_textpository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\repositories\\interfaces\\student_assigned_examrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\repositories\\interfaces\\student_assigned_examrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\repositories\\implementations\\student_answer_chooserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\repositories\\implementations\\student_answer_chooserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\repositories\\interfaces\\istudent_answer_textrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\repositories\\interfaces\\istudent_answer_textrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\repositories\\interfaces\\istudent_answer_chooserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\repositories\\interfaces\\istudent_answer_chooserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\repositories\\implementations\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\repositories\\implementations\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\repositories\\interfaces\\ianswerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\repositories\\interfaces\\ianswerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\repositories\\interfaces\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\repositories\\interfaces\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\repositories\\implementations\\questoinrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\repositories\\implementations\\questoinrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\repositories\\interfaces\\iquestoinrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\repositories\\interfaces\\iquestoinrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\repositories\\implementations\\postsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\repositories\\implementations\\postsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\repositories\\interfaces\\ipostsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\repositories\\interfaces\\ipostsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\models\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\models\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\repositories\\implementations\\phonenumberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\repositories\\implementations\\phonenumberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\repositories\\interfaces\\iphonenumberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\repositories\\interfaces\\iphonenumberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\repositories\\implementations\\examrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\repositories\\implementations\\examrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\repositories\\interfaces\\iexamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\repositories\\interfaces\\iexamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\repositories\\implementations\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\repositories\\implementations\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\repositories\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\repositories\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\sant-george-website.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\sant-george-website.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -170,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -178,444 +38,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TeacherMarkExam.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\TeacherMarkExam.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Models\\TeacherMarkExam.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\TeacherMarkExam.cs*",
-              "RelativeToolTip": "Sant-George-Website\\Models\\TeacherMarkExam.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T23:04:17.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StudentAssignedExam.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\StudentAssignedExam.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Models\\StudentAssignedExam.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\StudentAssignedExam.cs*",
-              "RelativeToolTip": "Sant-George-Website\\Models\\StudentAssignedExam.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T23:02:25.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StudentAnswerText.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\StudentAnswerText.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Models\\StudentAnswerText.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\StudentAnswerText.cs*",
-              "RelativeToolTip": "Sant-George-Website\\Models\\StudentAnswerText.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T23:00:44.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserParent.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\UserParent.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Models\\UserParent.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\UserParent.cs*",
-              "RelativeToolTip": "Sant-George-Website\\Models\\UserParent.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "ForgotPasswordDTO.cs",
+              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\DTOs\\ForgotPasswordDTO.cs",
+              "RelativeDocumentMoniker": "Sant-George-Website\\DTOs\\ForgotPasswordDTO.cs",
+              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\DTOs\\ForgotPasswordDTO.cs",
+              "RelativeToolTip": "Sant-George-Website\\DTOs\\ForgotPasswordDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T00:04:50.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserServiceRole.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\UserServiceRole.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Models\\UserServiceRole.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\UserServiceRole.cs*",
-              "RelativeToolTip": "Sant-George-Website\\Models\\UserServiceRole.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T00:11:58.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SantGeorgeWebsiteDBContext.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\SantGeorgeWebsiteDBContext.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Models\\SantGeorgeWebsiteDBContext.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\SantGeorgeWebsiteDBContext.cs",
-              "RelativeToolTip": "Sant-George-Website\\Models\\SantGeorgeWebsiteDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T23:11:25.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StudentAnswerChoose.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\StudentAnswerChoose.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Models\\StudentAnswerChoose.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\StudentAnswerChoose.cs*",
-              "RelativeToolTip": "Sant-George-Website\\Models\\StudentAnswerChoose.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T22:56:28.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AnswerRepository.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Implementations\\AnswerRepository.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Repositories\\Implementations\\AnswerRepository.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Implementations\\AnswerRepository.cs",
-              "RelativeToolTip": "Sant-George-Website\\Repositories\\Implementations\\AnswerRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:12:23.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Teacher_Mark_ExamRepository.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Implementations\\Teacher_Mark_ExamRepository.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Repositories\\Implementations\\Teacher_Mark_ExamRepository.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Implementations\\Teacher_Mark_ExamRepository.cs*",
-              "RelativeToolTip": "Sant-George-Website\\Repositories\\Implementations\\Teacher_Mark_ExamRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:41:41.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ITeacher_Mark_ExamRepository.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Interfaces\\ITeacher_Mark_ExamRepository.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Repositories\\Interfaces\\ITeacher_Mark_ExamRepository.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Interfaces\\ITeacher_Mark_ExamRepository.cs*",
-              "RelativeToolTip": "Sant-George-Website\\Repositories\\Interfaces\\ITeacher_Mark_ExamRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:41:18.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Student_Assigned_ExamRepository.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Implementations\\Student_Assigned_ExamRepository.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Repositories\\Implementations\\Student_Assigned_ExamRepository.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Implementations\\Student_Assigned_ExamRepository.cs*",
-              "RelativeToolTip": "Sant-George-Website\\Repositories\\Implementations\\Student_Assigned_ExamRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:40:21.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Student_Answer_Textpository.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Implementations\\Student_Answer_Textpository.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Repositories\\Implementations\\Student_Answer_Textpository.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Implementations\\Student_Answer_Textpository.cs*",
-              "RelativeToolTip": "Sant-George-Website\\Repositories\\Implementations\\Student_Answer_Textpository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABpAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:38:30.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Student_Assigned_ExamRepository.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Interfaces\\Student_Assigned_ExamRepository.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Repositories\\Interfaces\\Student_Assigned_ExamRepository.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Interfaces\\Student_Assigned_ExamRepository.cs*",
-              "RelativeToolTip": "Sant-George-Website\\Repositories\\Interfaces\\Student_Assigned_ExamRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:39:52.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IStudent_Answer_TextRepository.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Interfaces\\IStudent_Answer_TextRepository.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Repositories\\Interfaces\\IStudent_Answer_TextRepository.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Interfaces\\IStudent_Answer_TextRepository.cs*",
-              "RelativeToolTip": "Sant-George-Website\\Repositories\\Interfaces\\IStudent_Answer_TextRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:38:04.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Student_Answer_ChooseRepository.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Implementations\\Student_Answer_ChooseRepository.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Repositories\\Implementations\\Student_Answer_ChooseRepository.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Implementations\\Student_Answer_ChooseRepository.cs*",
-              "RelativeToolTip": "Sant-George-Website\\Repositories\\Implementations\\Student_Answer_ChooseRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:37:24.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IStudent_Answer_ChooseRepository.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Interfaces\\IStudent_Answer_ChooseRepository.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Repositories\\Interfaces\\IStudent_Answer_ChooseRepository.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Interfaces\\IStudent_Answer_ChooseRepository.cs*",
-              "RelativeToolTip": "Sant-George-Website\\Repositories\\Interfaces\\IStudent_Answer_ChooseRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:36:49.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IServiceRepository.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Interfaces\\IServiceRepository.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Repositories\\Interfaces\\IServiceRepository.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Interfaces\\IServiceRepository.cs",
-              "RelativeToolTip": "Sant-George-Website\\Repositories\\Interfaces\\IServiceRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:35:57.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ServiceRepository.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Implementations\\ServiceRepository.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Repositories\\Implementations\\ServiceRepository.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Implementations\\ServiceRepository.cs",
-              "RelativeToolTip": "Sant-George-Website\\Repositories\\Implementations\\ServiceRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:35:46.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "QuestoinRepository.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Implementations\\QuestoinRepository.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Repositories\\Implementations\\QuestoinRepository.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Implementations\\QuestoinRepository.cs*",
-              "RelativeToolTip": "Sant-George-Website\\Repositories\\Implementations\\QuestoinRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:34:18.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IAnswerRepository.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Interfaces\\IAnswerRepository.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Repositories\\Interfaces\\IAnswerRepository.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Interfaces\\IAnswerRepository.cs",
-              "RelativeToolTip": "Sant-George-Website\\Repositories\\Interfaces\\IAnswerRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T08:54:17.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IQuestoinRepository.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Interfaces\\IQuestoinRepository.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Repositories\\Interfaces\\IQuestoinRepository.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Interfaces\\IQuestoinRepository.cs",
-              "RelativeToolTip": "Sant-George-Website\\Repositories\\Interfaces\\IQuestoinRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:34:38.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "PostsRepository.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Implementations\\PostsRepository.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Repositories\\Implementations\\PostsRepository.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Implementations\\PostsRepository.cs*",
-              "RelativeToolTip": "Sant-George-Website\\Repositories\\Implementations\\PostsRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:33:38.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IPostsRepository.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Interfaces\\IPostsRepository.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Repositories\\Interfaces\\IPostsRepository.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Interfaces\\IPostsRepository.cs",
-              "RelativeToolTip": "Sant-George-Website\\Repositories\\Interfaces\\IPostsRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:33:15.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "PhonenumberRepository.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Implementations\\PhonenumberRepository.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Repositories\\Implementations\\PhonenumberRepository.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Implementations\\PhonenumberRepository.cs",
-              "RelativeToolTip": "Sant-George-Website\\Repositories\\Implementations\\PhonenumberRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:30:18.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IPhonenumberRepository.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Interfaces\\IPhonenumberRepository.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Repositories\\Interfaces\\IPhonenumberRepository.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Interfaces\\IPhonenumberRepository.cs*",
-              "RelativeToolTip": "Sant-George-Website\\Repositories\\Interfaces\\IPhonenumberRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:30:02.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ExamRepository.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Implementations\\ExamRepository.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Repositories\\Implementations\\ExamRepository.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Implementations\\ExamRepository.cs",
-              "RelativeToolTip": "Sant-George-Website\\Repositories\\Implementations\\ExamRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:28:42.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Implementations\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Repositories\\Implementations\\GenericRepository.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Implementations\\GenericRepository.cs",
-              "RelativeToolTip": "Sant-George-Website\\Repositories\\Implementations\\GenericRepository.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAA7wCgAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T08:58:22.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Phonenumber.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\Phonenumber.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Models\\Phonenumber.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\Phonenumber.cs",
-              "RelativeToolTip": "Sant-George-Website\\Models\\Phonenumber.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T00:02:57.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Post.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\Post.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Models\\Post.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\Post.cs",
-              "RelativeToolTip": "Sant-George-Website\\Models\\Post.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T00:18:26.55Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "IExamRepository.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Interfaces\\IExamRepository.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Repositories\\Interfaces\\IExamRepository.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Interfaces\\IExamRepository.cs",
-              "RelativeToolTip": "Sant-George-Website\\Repositories\\Interfaces\\IExamRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:28:30.05Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "CommentRepository.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Implementations\\CommentRepository.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Repositories\\Implementations\\CommentRepository.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Implementations\\CommentRepository.cs",
-              "RelativeToolTip": "Sant-George-Website\\Repositories\\Implementations\\CommentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:27:37.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "ICommentRepository.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Interfaces\\ICommentRepository.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Repositories\\Interfaces\\ICommentRepository.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Interfaces\\ICommentRepository.cs",
-              "RelativeToolTip": "Sant-George-Website\\Repositories\\Interfaces\\ICommentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:27:04.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Repositories\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Repositories\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "Sant-George-Website\\Repositories\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T08:54:44.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Exam.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\Exam.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Models\\Exam.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\Exam.cs",
-              "RelativeToolTip": "Sant-George-Website\\Models\\Exam.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T22:46:34.389Z",
+              "WhenOpened": "2025-09-06T12:40:49.226Z",
               "EditorCaption": ""
             },
             {
@@ -624,75 +55,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Service.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\Service.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Models\\Service.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\Service.cs",
-              "RelativeToolTip": "Sant-George-Website\\Models\\Service.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ResetPasswordDTO.cs",
+              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\DTOs\\ResetPasswordDTO.cs",
+              "RelativeDocumentMoniker": "Sant-George-Website\\DTOs\\ResetPasswordDTO.cs",
+              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\DTOs\\ResetPasswordDTO.cs",
+              "RelativeToolTip": "Sant-George-Website\\DTOs\\ResetPasswordDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T00:06:54.41Z"
+              "WhenOpened": "2025-09-04T13:49:36.708Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\Comment.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Models\\Comment.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\Comment.cs",
-              "RelativeToolTip": "Sant-George-Website\\Models\\Comment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Sant-George-Website\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Sant-George-Website\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAjwIUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T00:16:06.24Z"
+              "WhenOpened": "2025-09-04T13:01:48.022Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Question.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\Question.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Models\\Question.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\Question.cs",
-              "RelativeToolTip": "Sant-George-Website\\Models\\Question.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T22:51:20.842Z"
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\appsettings.json",
+              "RelativeDocumentMoniker": "Sant-George-Website\\appsettings.json",
+              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\appsettings.json",
+              "RelativeToolTip": "Sant-George-Website\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-28T07:33:52.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Models\\ApplicationUser.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "Sant-George-Website\\Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Program.cs",
+              "RelativeDocumentMoniker": "Sant-George-Website\\Program.cs",
+              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Program.cs",
+              "RelativeToolTip": "Sant-George-Website\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAEIAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T22:45:58.107Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Answer.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\Answer.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Models\\Answer.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Models\\Answer.cs",
-              "RelativeToolTip": "Sant-George-Website\\Models\\Answer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T22:52:25.367Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Sant-George-Website.csproj",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website.csproj",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Sant-George-Website.csproj",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website.csproj",
-              "RelativeToolTip": "Sant-George-Website\\Sant-George-Website.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-24T22:45:35.325Z"
+              "WhenOpened": "2025-08-28T07:23:22.734Z",
+              "EditorCaption": ""
             }
           ]
         },

@@ -1,4 +1,5 @@
-﻿using Sant_George_Website.Repositories.Interfaces;
+﻿using Microsoft.EntityFrameworkCore.Diagnostics;
+using Sant_George_Website.Repositories.Interfaces;
 using SantGeorgeWebsite.Models;
 using SantGeorgeWebsite.Repositories.Implementations;
 using SantGeorgeWebsite.Repositories.Interfaces;
@@ -27,5 +28,6 @@ namespace Sant_George_Website.UnitOfWorks
         ITeacherMarkExamRepository TeacherMarkExamRepository { get; }
         IUserParentRepository UserParentRepository { get; }
         IUserServiceRoleRepository UserServiceRoleRepository { get; }
+        Task SaveChanges();
     }
 }

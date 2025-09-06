@@ -1,0 +1,62 @@
+### Test Authentication Flow
+
+# 0. Test if app is running (no auth required)
+GET http://localhost:5246/api/debug/status
+
+###
+
+# 0.1. Test debug endpoint (no auth required)
+GET http://localhost:5246/api/Authentication/debug
+
+###
+
+# 1. Register a new user
+POST http://localhost:5246/api/Authentication/Register
+Content-Type: application/json
+
+{
+  "Email": "test@example.com",
+  "Password": "Test123!",
+  "UserName": "testuser"
+}
+
+###
+
+# 2. Login to get JWT token
+POST http://localhost:5246/api/Authentication/Login
+Content-Type: application/json
+
+{
+  "Email": "test@example.com",
+  "Password": "Test123!"
+}
+
+###
+
+# 3. Test authorized endpoint with JWT token
+# Replace YOUR_JWT_TOKEN_HERE with the actual token from step 2
+GET http://localhost:5246/api/Authentication/IsAuthorized
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+###
+
+# 4. Test minimal API endpoint
+GET http://localhost:5246/api/minimal
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+###
+
+# 5. Test test controller
+GET http://localhost:5246/api/test/ping
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+###
+
+# 6. Test with invalid token (should fail)
+GET http://localhost:5246/api/Authentication/IsAuthorized
+Authorization: Bearer invalid_token_here
+
+###
+
+# 7. Test without token (should fail)
+GET http://localhost:5246/api/Authentication/IsAuthorized

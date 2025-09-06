@@ -13,8 +13,8 @@ namespace SantGeorgeWebsite.Models
         public string? Description { get; set; }
         [ForeignKey(nameof(Teacher))]
         public string TeacherId{ get; set; }
-        public ApplicationUser Teacher { get; set; }
-        public ICollection<Question> Questions{ get; set; }
+        public virtual ApplicationUser Teacher { get; set; }
+        public virtual ICollection<Question> Questions{ get; set; }
 
     }
 }

@@ -3,16 +3,16 @@ using Microsoft.EntityFrameworkCore;
 
 namespace SantGeorgeWebsite.Models
 {
-    [PrimaryKey(nameof(StudentId),nameof(QuestionId))]
+    
     public class StudentAnswerText
     {
-
+        public int Id { get; set; }
         [ForeignKey(nameof(Student))]
         public string StudentId { get; set; }
-        public ApplicationUser Student { get; set; }
+        public virtual ApplicationUser Student { get; set; }
         [ForeignKey(nameof(Question))]
         public int QuestionId { get; set; }
-        public Question Question { get; set; }
+        public virtual Question Question { get; set; }
         public string? Text{ get; set; }
     }
 }

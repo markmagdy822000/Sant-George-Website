@@ -3,14 +3,14 @@ using Microsoft.EntityFrameworkCore;
 
 namespace SantGeorgeWebsite.Models
 {
-    [PrimaryKey(nameof(StudentId), nameof(AnswerId))]
     public class StudentAnswerChoose
     {
+        public int Id { get; set; }
         [ForeignKey(nameof(Student))]
         public string StudentId { get; set; }
-        public ApplicationUser Student{ get; set; }
+        public virtual ApplicationUser Student { get; set; }
         [ForeignKey(nameof(Answer))]
         public int AnswerId { get; set; }
-        public Answer Answer { get; set; }
+        public virtual Answer Answer { get; set; }
     }
 }

@@ -1,4 +1,5 @@
-﻿using Sant_George_Website.Repositories.Implementations;
+﻿using System.Runtime.CompilerServices;
+using Sant_George_Website.Repositories.Implementations;
 using Sant_George_Website.Repositories.Interfaces;
 using SantGeorgeWebsite.Models;
 using SantGeorgeWebsite.Repositories.Implementations;
@@ -134,5 +135,19 @@ namespace Sant_George_Website.UnitOfWorks
             }
         }
 
+        IStudentAnswerTextRepository studentAnswerTextpository;
+
+        public IStudentAnswerTextRepository StudentAnswerTextpository
+        {
+            get
+            {
+                if (studentAnswerTextpository == null) studentAnswerTextpository = new StudentAnswerTextRepository(_context);
+                return studentAnswerTextpository;
+            }
+        }
+        public async Task SaveChanges()
+        {
+            _context.SaveChanges();
+        }
     }
 }

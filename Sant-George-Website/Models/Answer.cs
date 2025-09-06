@@ -11,7 +11,7 @@ namespace SantGeorgeWebsite.Models
         public bool? IsCorrect { get; set; }
         [ForeignKey(nameof(Question))]
         public int QuestionId { get; set; }
-        public Question Question { get; set; }
+        public virtual Question Question { get; set; }
         public QuestionType Type{ get; set; }
         
     }
