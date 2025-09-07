@@ -1,25 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\",
+  "WorkspaceRootPath": "E:\\Work\\Church-website\\Sant-George-Website\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\backend\\sant-george-website\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\dtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\dtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\backend\\sant-george-website\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\dtos\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\dtos\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\backend\\sant-george-website\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\backend\\sant-george-website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\sant-george-website\\sant-george-website\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\backend\\sant-george-website\\dtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\dtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\backend\\sant-george-website\\dtos\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\dtos\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|e:\\work\\church-website\\sant-george-website\\backend\\sant-george-website\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FE70182E-CEDE-460A-8D62-1F6E7A5CE38C}|Sant-George-Website\\Sant-George-Website.csproj|solutionrelative:sant-george-website\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -30,24 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ForgotPasswordDTO.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\DTOs\\ForgotPasswordDTO.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\DTOs\\ForgotPasswordDTO.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\DTOs\\ForgotPasswordDTO.cs",
-              "RelativeToolTip": "Sant-George-Website\\DTOs\\ForgotPasswordDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T12:40:49.226Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -55,54 +50,88 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Backend\\Sant-George-Website\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Sant-George-Website\\Models\\ApplicationUser.cs",
+              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Backend\\Sant-George-Website\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Sant-George-Website\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T12:13:57.82Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Backend\\Sant-George-Website\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "Sant-George-Website\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Backend\\Sant-George-Website\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "Sant-George-Website\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T11:37:38.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ForgotPasswordDTO.cs",
+              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Backend\\Sant-George-Website\\DTOs\\ForgotPasswordDTO.cs",
+              "RelativeDocumentMoniker": "Sant-George-Website\\DTOs\\ForgotPasswordDTO.cs",
+              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Backend\\Sant-George-Website\\DTOs\\ForgotPasswordDTO.cs",
+              "RelativeToolTip": "Sant-George-Website\\DTOs\\ForgotPasswordDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T12:40:49.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ResetPasswordDTO.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\DTOs\\ResetPasswordDTO.cs",
+              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Backend\\Sant-George-Website\\DTOs\\ResetPasswordDTO.cs",
               "RelativeDocumentMoniker": "Sant-George-Website\\DTOs\\ResetPasswordDTO.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\DTOs\\ResetPasswordDTO.cs",
+              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Backend\\Sant-George-Website\\DTOs\\ResetPasswordDTO.cs",
               "RelativeToolTip": "Sant-George-Website\\DTOs\\ResetPasswordDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T13:49:36.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T13:49:36.708Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Controllers\\AuthenticationController.cs",
+              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Backend\\Sant-George-Website\\Controllers\\AuthenticationController.cs",
               "RelativeDocumentMoniker": "Sant-George-Website\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Backend\\Sant-George-Website\\Controllers\\AuthenticationController.cs",
               "RelativeToolTip": "Sant-George-Website\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAjwIUAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwC8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-04T13:01:48.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Backend\\Sant-George-Website\\Program.cs",
+              "RelativeDocumentMoniker": "Sant-George-Website\\Program.cs",
+              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Backend\\Sant-George-Website\\Program.cs",
+              "RelativeToolTip": "Sant-George-Website\\Program.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAuwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T07:23:22.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\appsettings.json",
+              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Backend\\Sant-George-Website\\appsettings.json",
               "RelativeDocumentMoniker": "Sant-George-Website\\appsettings.json",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\appsettings.json",
+              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Backend\\Sant-George-Website\\appsettings.json",
               "RelativeToolTip": "Sant-George-Website\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-08-28T07:33:52.668Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Program.cs",
-              "RelativeDocumentMoniker": "Sant-George-Website\\Program.cs",
-              "ToolTip": "E:\\Work\\Church-website\\Sant-George-Website\\Sant-George-Website\\Sant-George-Website\\Program.cs",
-              "RelativeToolTip": "Sant-George-Website\\Program.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAAAEIAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T07:23:22.734Z",
-              "EditorCaption": ""
             }
           ]
         },

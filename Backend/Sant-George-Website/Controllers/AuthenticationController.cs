@@ -50,6 +50,8 @@ namespace Sant_George_Website.Controllers
 
             ApplicationUser user = _mapper.Map<ApplicationUser>(registerDto);
             user.Id = Guid.NewGuid().ToString();
+            if (registerDto.Gender.ToLower() == "male") user.Gender = Gender.Male;
+            else user.Gender = Gender.Female;
 
             ApplicationUser existingUser = await _userManager.FindByEmailAsync(registerDto.Email);
             if (existingUser != null)
@@ -109,7 +111,6 @@ namespace Sant_George_Website.Controllers
             var tokenString = new JwtSecurityTokenHandler().WriteToken(token);
 
             #endregion
-
             return Ok(new
             {
                 token = tokenString,

@@ -19,11 +19,19 @@ namespace SantGeorgeWebsite
             var builder = WebApplication.CreateBuilder(args);
 
             builder.Services.AddControllers();
-
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy(name: "MyAllowSpecificOrigins",
+                                  policy =>
+                                  {
+                                      policy.WithOrigins("http://localhost:4200")
+                                            .AllowAnyHeader()
+                                            .AllowAnyMethod();
+                                  });
+            });
             builder.Services.AddDbContext<SantGeorgeWebsiteDBContext>(options =>
                 options.UseLazyLoadingProxies()
-                       .UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
-            );
+                       .UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
             // ✅ JWT Authentication setup with standard "Bearer" scheme
             var jwtKey = "this is my secrect key for the SantGeorge project";
@@ -83,7 +91,6 @@ namespace SantGeorgeWebsite
                 ValidateLifetime = true
             };
         });
-
             // Other services
             builder.Services.AddOpenApi();
             builder.Services.AddAutoMapper(cfg => cfg.AddProfile<MappingConfig>());
@@ -99,6 +106,9 @@ namespace SantGeorgeWebsite
             }
 
             app.UseRouting();
+
+            // Enable CORS
+            app.UseCors("MyAllowSpecificOrigins");
 
             // ✅ Authentication + Authorization
             app.UseAuthentication();
